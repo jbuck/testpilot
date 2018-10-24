@@ -1,0 +1,54 @@
+addon_id: shopping-testpilot@mozilla.org
+bug_report_url: "https://github.com/mozilla/price-wise/issues"
+contributors:
+  -
+    avatar: /static/images/experiments/price-wise/avatars/leeroy-avatar.png
+    display_name: "Leeroy Jenkins"
+created: "2018-08-07T13:00:00.00Z"
+description: "Aliquam quis orci id ex malesuada congue. Nullam fringilla nulla rutrum, placerat elit et, sodales urna."
+details:
+  -
+    copy: "Maecenas rutrum sapien diam, vestibulum posuere odio ornare pellentesque."
+    image: /static/images/experiments/price-wise/details/detail1.jpg
+  -
+    copy: "Donec aliquet aliquet augue sed viverra."
+    image: /static/images/experiments/price-wise/details/detail2.jpg
+  -
+    copy: "Sed viverra ligula ex, ut pellentesque mauris maximus id."
+    image: /static/images/experiments/price-wise/details/detail3.jpg
+dev: true
+discourse_url: "https://discourse.mozilla-community.org/c/test-pilot/price-wise"
+gradient_start: "#FDBE2E"
+gradient_stop: "#FE594D"
+id: 19
+image_facebook: /static/images/experiments/price-wise/social/price-wise-facebook.png
+image_twitter: /static/images/experiments/price-wise/social/price-wise-twitter.png
+introduction: "Nunc id orci eget erat suscipit sollicitudin eleifend at massa. Sed vestibulum est vel vulputate hendrerit. Duis purus mauris, feugiat et justo a, molestie tincidunt nulla. Donec sodales neque sit amet enim ornare ullamcorper."
+launch_date: "2018-08-07T13:00:00.00Z"
+legal_notice: "By proceeding, you agree to the <terms-link>terms</terms-link> and <privacy-link>privacy</privacy-link> policies of Test Pilot and the <modal-link>Price Wise privacy policy</modal-link>."
+locale_grantlist:
+  - en
+locales:
+  - en
+measurements:
+  - "Product Pages: Price Wise collects how often you visit saved product pages."
+  - "Product Data: Price Wise collects data about the products you choose to track such as prices change frequency, size, and the accuracy of that information."
+  - "Interaction Data: Price Wise collects information about how you use the feature such as how often you add, delete and interact with saved products, number of products you choose to track, and how you engage with messages and push notifications."
+order: 1
+platforms:
+  - addon
+privacy_notice_url: "https://github.com/mozilla/price-wise/blob/master/metrics.md"
+slug: price-wise
+thumbnail: /static/images/experiments/price-wise/icon/thumbnail.png
+title: "Price Wise"
+tour_steps:
+  -
+    copy: "Integer augue turpis."
+    image: /static/images/experiments/price-wise/tour/tour1.jpg
+  -
+    copy: "Donec quis leo odio."
+    image: /static/images/experiments/price-wise/tour/tour2.jpg
+  -
+    copy: "In gravida urna ut ante sollicitudin."
+    image: /static/images/experiments/price-wise/tour/tour3.jpg
+xpi_url: "https://testpilot.firefox.com/files/shopping-testpilot@mozilla.org/latest"
